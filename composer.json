@@ -1,5 +1,5 @@
 {
-    "name": "drupal/eauthority_composer_testing",
+    "name": "drupal_eauthority/eauthority_composer_testing",
     "type": "drupal-module",
     "description": "eauthority Composer Testing",
     "keywords": [
