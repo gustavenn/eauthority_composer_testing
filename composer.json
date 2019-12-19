@@ -1,0 +1,13 @@
+{
+    "name": "eauthority_composer_testing",
+    "type": "drupal-module",
+    "description": "eauthority Composer Testing",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/eauthority_composer_testing",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/eauthority_composer_testing",
+        "source": "http://cgit.drupalcode.org/eauthority_composer_testing"
+    }
+}

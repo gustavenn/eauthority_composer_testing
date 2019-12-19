@@ -1,0 +1,8 @@
+
+eauthority_composer_testing.default_controller_testing:
+  path: '/eauthority_composer_testing/testing'
+  defaults:
+    _controller: '\Drupal\eauthority_composer_testing\Controller\DefaultController::testing'
+    _title: 'test'
+  requirements:
+    _permission: 'access content'

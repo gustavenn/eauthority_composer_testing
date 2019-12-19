@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains eauthority_composer_testing.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function eauthority_composer_testing_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the eauthority_composer_testing module.
+    case 'help.page.eauthority_composer_testing':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('My Awesome Module') . '</p>';
+      return $output;
+
+    default:
+  }
+}

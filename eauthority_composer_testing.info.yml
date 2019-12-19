@@ -1,0 +1,5 @@
+name: 'eauthority_composer_testing'
+type: module
+description: 'eauthority Composer Testing'
+core: 8.x
+package: 'Custom'
