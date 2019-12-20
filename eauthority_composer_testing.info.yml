@@ -1,5 +1,5 @@
 name: 'eauthority_composer_testing'
 type: module
-description: 'eauthority Composer Testing 1.0.1'
+description: 'eauthority Composer Testing 1.0.2'
 core: 8.x
 package: 'Custom'
