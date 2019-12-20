@@ -5,7 +5,7 @@
     "keywords": [
     ],
     "homepage": "https://www.drupal.org/project/eauthority_composer_testing",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "support": {
         "issues": "https://www.drupal.org/project/issues/eauthority_composer_testing",
         "source": "http://cgit.drupalcode.org/eauthority_composer_testing"
